@@ -10,7 +10,7 @@ const imageAltClass = 'img_alt';
 
 
 const defaultSiteLanguage = 'en-us';
-const baseURL = 'https://klearnhub.github.io/blog.klearnhub.com/';
+const baseURL = 'https://blog.klearnhub.com/';
 const searchFieldClass = '.search_field';
 const searchClass = '.search';
 const goBackClass = 'button_back';
